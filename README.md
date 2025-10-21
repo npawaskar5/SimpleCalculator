@@ -8,3 +8,4 @@ A beginner-friendly Java program that performs addition, subtraction, multiplica
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/SimpleCalculator.git
+cd SimpleCalculator
